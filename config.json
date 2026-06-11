@@ -1,0 +1,32 @@
+{
+    "tool_name": "VX-NUKER",
+    "version": "1.0.0",
+    "discord_url": "https://discord.gg/QAkKn3a8ya",
+    "github_url": "https://guns.lol/vxsociety",
+    "youtube_url": "https://guns.lol/vxsociety",
+    "raid_name": "raid-by-vx",
+    "gif_banner": "https://files.catbox.moe/wgke8n.png",
+    "no_ban_kick_ids": [],
+    "auto_raid": {
+        "channel_type": "text",
+        "num_channels": 50,
+        "num_messages": 10
+    },
+    "embed": {
+        "title": "VX-NUKER",
+        "color": "0xDC143C",
+        "footer": "VX | VX-NUKER v1.0.0"
+    },
+    "server": {
+        "new_name": "RAIDED BY VX-NUKER",
+        "new_icon": "",
+        "new_description": "discord.gg/QAkKn3a8ya"
+    },
+    "bot_presence": {
+        "type": "playing",
+        "text": "discord.gg/QAkKn3a8ya"
+    },
+    "webhook": {
+        "default_name": "VX-NUKER"
+    }
+}
